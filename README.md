@@ -18,6 +18,10 @@
 
 https://www.youtube.com/@CodeBoostLabo
 
+
+**「C言語の壁を越えよう！ ～メモリの世界から理解するC言語～」**
+https://www.youtube.com/watch?v=vXqfDO7bKtU&list=PLSStSwK3lbKXaxudKh_MMLw3cBzE1nJuf
+
 ---
 
 ## サンプルコード
