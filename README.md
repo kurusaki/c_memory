@@ -33,9 +33,8 @@ https://www.youtube.com/watch?v=vXqfDO7bKtU&list=PLSStSwK3lbKXaxudKh_MMLw3cBzE1n
 | #2 | コンピュータのメモリって何？ | `samples/02_memory/` |
 | #3 | 変数はメモリにどう保存される？<br>char・short・int・longをダンプしてみよう | `samples/03_endian/` |
 | #4 | メモリの順番が逆！？ エンディアンとは何か | `samples/03_endian/` |
-| #5 | 配列はメモリ上でどう並ぶ？ | `samples/05_array_memory.c` |
-
-※ #5以降は、サンプルコードを `samples` フォルダ直下に追加していく予定です。
+| #5 | 配列はメモリ上でどう並ぶ？ | `samples/05_array_memory` |
+| #6 | C言語最大の壁「ポインタ」まずは正体を知ろう| `samples/06_pointer_basic` |
 
 ---
 
