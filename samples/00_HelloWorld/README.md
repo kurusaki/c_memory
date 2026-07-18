@@ -7,7 +7,7 @@
 
 ## この動画について
 
-📺 **[動画はこちら](https://www.youtube.com/watch?v=sDIPV_R0Msg)**
+📺 **[動画はこちら](https://youtu.be/sDIPV_R0Msg)**
 
 この動画では、これからシリーズで使用するC言語の開発環境を準備し、
 最初のプログラム「Hello, World!」を実行するまでを解説します。
