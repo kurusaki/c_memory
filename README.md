@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=vXqfDO7bKtU&list=PLSStSwK3lbKXaxudKh_MMLw3cBzE1n
 
 ---
 
-## サンプルコード
+## 目次
 
-| No | 動画 | サンプルコード |
+| No | テーマ | サンプルコード |
 |----|------|----------------|
 | #0 | MacでC言語の開発環境を作ろう | `samples/00_HelloWorld/` |
 | #1 | メモリの中はどうなっている？ メモリダンプ関数を作ろう | `samples/01_memory_dump/` |
@@ -35,6 +35,8 @@ https://www.youtube.com/watch?v=vXqfDO7bKtU&list=PLSStSwK3lbKXaxudKh_MMLw3cBzE1n
 | #4 | メモリの順番が逆！？ エンディアンとは何か | `samples/03_endian/` |
 | #5 | 配列はメモリ上でどう並ぶ？ | `samples/05_array_memory` |
 | #6 | C言語最大の壁「ポインタ」まずは正体を知ろう| `samples/06_pointer_basic` |
+| #7 | ポインタ演算とは？なぜ「+1」で4バイト進むのか| `samples/07_pointer_arithmetic` |
+| #8 | 配列とポインタは同じ？実は「似ているけど違う」| `samples/08_array_pointer` |
 
 ---
 
