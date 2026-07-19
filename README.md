@@ -27,7 +27,7 @@
 
 | No | テーマ | サンプルコード |
 |----|------|----------------|
-| #0 | MacでC言語の開発環境を作ろう | `samples/00_HelloWorld/` |
+| #0 | MacでC言語の開発環境を作ろう | [00_HelloWorld](samples/00_HelloWorld/) |
 | #1 | メモリの中はどうなっている？ メモリダンプ関数を作ろう | `samples/01_memory_dump/` |
 | #2 | コンピュータのメモリって何？ | `samples/02_memory/` |
 | #3 | 変数はメモリにどう保存される？<br>char・short・int・longをダンプしてみよう | `samples/03_endian/` |
