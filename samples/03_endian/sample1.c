@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "mdump.h"
 
-int main(void) {
+int main(void) 
+{
     char  c = 20;
     short s = 20;
     int   i = 20;
