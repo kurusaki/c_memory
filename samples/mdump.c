@@ -2,7 +2,7 @@
 #include <stddef.h>
 #include <ctype.h>
 
-void mdump(void *addr, size_t size)
+void mdump(const void *addr, size_t size)
 {
     unsigned char *p = (unsigned char *)addr;
 
