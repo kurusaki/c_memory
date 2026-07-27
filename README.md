@@ -43,6 +43,10 @@
 | #6 | C言語最大の壁「ポインタ」まずは正体を知ろう| [06_pointer_basic](samples/06_pointer_basic) |
 | #7 | ポインタ演算とは？なぜ「+1」で4バイト進むのか| [07_pointer_arithmetic](samples/07_pointer_arithmetic) |
 | #8 | 配列とポインタは同じ？実は「似ているけど違う」| [08_array_pointer](samples/08_array_pointer) |
+| #9 | 構造体とは何か？ 関連するデータを一つにまとめよう| [09_struct](samples/09_struct)|
+
+
+
 
 ---
 
