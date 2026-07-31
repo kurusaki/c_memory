@@ -65,6 +65,14 @@ https://github.com/kurusaki/c_memory
 ---
 ## サンプルコード
 
+この動画で使用したサンプルコードです。
+
+- [struct_basic.c](struct_basic.c)
+
+---
+
+## 動画シナリオ
+
 C言語の壁を越えよう！
 ～メモリの世界から理解するC言語～
 
