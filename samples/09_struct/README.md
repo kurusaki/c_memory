@@ -8,7 +8,7 @@
 
 ## この動画について
 
-📺 **[動画はこちら](https://youtu.be/X-WCJMyKcbQ)**
+📺 **[動画はこちら](https://youtu.be/cQo0jaSTf9g)**
 
 今回は 「構造体（struct）とは何か？」 について学びます。
 
