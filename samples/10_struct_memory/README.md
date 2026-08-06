@@ -6,7 +6,7 @@
 
 ## この動画について
 
-📺 **[動画はこちら](https://youtu.be/X-WCJMyKcbQ)**
+📺 **[動画はこちら](https://youtu.be/sEPobJQVBdI)**
 
 前回は、構造体（struct）が関連するデータを一つにまとめるための「新しい型」であることを学びました。
 
