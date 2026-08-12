@@ -46,6 +46,8 @@
 | #9 | 構造体とは何か？ 関連するデータを一つにまとめよう| [09_struct](samples/09_struct)|
 | #10 | 構造体はメモリ上でどう並ぶ？ ～sizeofが予想より大きい理由～| [10_struct_memory](samples/10_struct_memory)|
 | #11 | パディングを減らす方法とは？～メンバーの並び順でサイズが変わる！～| [11_struct_padding](samples/11_struct_padding)|
+| #12 | 構造体ポインタと ->とは？メモリから理解するアロー演算子| [12_struct_pointer](samples/12_struct_pointer)|
+
 
 
 
