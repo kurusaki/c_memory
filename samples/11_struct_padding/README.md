@@ -40,8 +40,6 @@ https://github.com/kurusaki/c_memory/tree/develop/samples/11_struct_padding
 
 ## 動画シナリオ
 
-# オープニング
-
 こんにちは、CodeBoost Laboです。
 
 C言語の壁を越えよう！
@@ -659,5 +657,3 @@ person.age
 ```
 
 について、メモリの視点から確認していきます。
-
-
