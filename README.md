@@ -49,6 +49,7 @@
 | #12 | 構造体ポインタと ->とは？メモリから理解するアロー演算子| [12_struct_pointer](samples/12_struct_pointer)|
 | #13 | 文字列の最後には何がある？「\0」をメモリで確認（動画リンク追加予定）| [13_string_memory](samples/13_string_memory)|
 | #14 | char配列とcharポインタ（動画リンク追加予定）| [14_char_array_pointer](samples/14_char_array_pointer)|
+| #15 | プログラムのメモリ構造（動画リンク追加予定）| [15_memory_layout](samples/15_memory_layout)|
 
 
 
