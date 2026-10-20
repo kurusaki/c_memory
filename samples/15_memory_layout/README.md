@@ -180,13 +180,13 @@ clang -std=c17 -O0 -Wall -Wextra -Wpedantic memory_layout.c -o memory_layout
 実行結果の例：
 
 ```text
-global_value : 0x104034000, value = 100
-static_value : 0x104034004, value = 200
-global_zero  : 0x10403400c, value = 0
-static_zero  : 0x104034008, value = 0
-local_value  : 0x16bdd27d8, value = 300
-heap_ptr     : 0x1048794c0, value = 400
-&heap_ptr    : 0x16bdd27d0
+global_value : 0x102210000, value = 100
+static_value : 0x102210004, value = 200
+global_zero  : 0x10221000c, value = 0
+static_zero  : 0x102210008, value = 0
+local_value  : 0x16dbf6d58, value = 300
+heap_ptr     : 0x1027bda40, value = 400
+&heap_ptr    : 0x16dbf6d50
 ```
 
 アドレスや変数の配置順は、OS、コンパイラ、実行条件などによって変わります。アドレス空間配置のランダム化（ASLR）などにより、同じプログラムでも実行のたびにアドレスが変わる場合があります。上記の数字を固定値として覚える必要はありません。
