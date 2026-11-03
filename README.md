@@ -47,9 +47,10 @@
 | #10 | 構造体はメモリ上でどう並ぶ？ ～sizeofが予想より大きい理由～| [10_struct_memory](samples/10_struct_memory)|
 | #11 | パディングを減らす方法とは？～メンバーの並び順でサイズが変わる！～| [11_struct_padding](samples/11_struct_padding)|
 | #12 | 構造体ポインタと ->とは？メモリから理解するアロー演算子| [12_struct_pointer](samples/12_struct_pointer)|
-| #13 | 文字列の最後には何がある？「\0」をメモリで確認（動画リンク追加予定）| [13_string_memory](samples/13_string_memory)|
-| #14 | char配列とcharポインタ（動画リンク追加予定）| [14_char_array_pointer](samples/14_char_array_pointer)|
+| #13 | 文字列の最後には何がある？「\0」をメモリで確認| [13_string_memory](samples/13_string_memory)|
+| #14 | char配列とcharポインタ）| [14_char_array_pointer](samples/14_char_array_pointer)|
 | #15 | プログラムのメモリ構造（動画リンク追加予定）| [15_memory_layout](samples/15_memory_layout)|
+| #16 | スタックとヒープの違いとは？メモリの寿命で理解する| [16_stack_heap](samples/16_stack_heap)|
 
 
 
