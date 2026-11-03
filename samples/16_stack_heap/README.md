@@ -148,29 +148,34 @@ main: allocated memory freed
 
 create_valueの実行中は、ローカルなポインタ変数ptrが、mallocで確保した領域を指しています。
 
-```text
-create_valueのローカル変数
-
-ptr
-┌──────────┐
-│ アドレス │ ───────→ ┌─────┐
-└──────────┘          │ 200 │
-                      └─────┘
-                    mallocで確保
+```mermaid
+flowchart LR
+    subgraph local["create_valueのローカル変数"]
+        ptr["ptr<br/>アドレスを保存"]
+    end
+    subgraph allocated["mallocで確保した領域"]
+        value["200"]
+    end
+    ptr -->|指す| value
+    style ptr fill:#5e5e5e,stroke:#0087d8,color:#fff
+    style value fill:#5e5e5e,stroke:#0087d8,color:#fff
 ```
 
 `return ptr;` で呼び出し元へ渡すのはポインタの値です。ptr自身のアドレスを返しているわけではありません。
 
-```text
-create_valueのptr
-→ 寿命が終了
-
-mainのheap_ptr
-┌──────────┐
-│ アドレス │ ───────→ ┌─────┐
-└──────────┘          │ 200 │
-                      └─────┘
-                    確保した領域は存続
+```mermaid
+flowchart LR
+    expired["create_valueのptr<br/>寿命が終了"]
+    subgraph caller["mainのローカル変数"]
+        heap_ptr["heap_ptr<br/>返されたアドレスを保存"]
+    end
+    subgraph allocated["同じ確保済み領域が存続"]
+        value["200"]
+    end
+    heap_ptr -->|指す| value
+    style expired fill:#eeeeee,stroke:#888888,color:#555555,stroke-dasharray:5 5
+    style heap_ptr fill:#5e5e5e,stroke:#0087d8,color:#fff
+    style value fill:#5e5e5e,stroke:#0087d8,color:#fff
 ```
 
 mainのheap_ptrは、返された値を受け取って同じ領域を指します。ポインタ値をコピーしても、200を保存した領域がもう1つ作られるわけではありません。
