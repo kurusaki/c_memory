@@ -51,7 +51,7 @@
 | #14 | char配列とcharポインタ）| [14_char_array_pointer](samples/14_char_array_pointer)|
 | #15 | プログラムのメモリ構造| [15_memory_layout](samples/15_memory_layout)|
 | #16 | スタックとヒープの違いとは？メモリの寿命で理解する| [16_stack_heap](samples/16_stack_heap)|
-| #17 | mallocで配列を確保！初期化はどうする？（動画制作中）| [17_malloc](samples/17_malloc)|
+| #17 | [mallocで配列を確保！初期化はどうする？](https://youtu.be/sdjV4kH4nL8)| [17_malloc](samples/17_malloc)|
 
 
 
