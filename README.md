@@ -52,7 +52,7 @@
 | #15 | プログラムのメモリ構造| [15_memory_layout](samples/15_memory_layout)|
 | #16 | スタックとヒープの違いとは？メモリの寿命で理解する| [16_stack_heap](samples/16_stack_heap)|
 | #17 | [mallocで配列を確保！初期化はどうする？](https://youtu.be/sdjV4kH4nL8)| [17_malloc](samples/17_malloc)|
-| #18 | freeとは？メモリ解放のしくみと注意点（動画未公開）| [18_free](samples/18_free)|
+| #18 | [freeとは？メモリ解放のしくみと注意点](https://youtu.be/J8fF-cfFlhE)| [18_free](samples/18_free)|
 
 
 

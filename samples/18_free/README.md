@@ -2,7 +2,7 @@
 
 〜メモリの世界から理解するC言語〜
 
-YouTube：未公開（公開後にリンクを追加します）
+YouTube：[freeとは？メモリ解放のしくみと注意点](https://youtu.be/J8fF-cfFlhE)
 
 ## この回で学ぶこと
 
@@ -275,7 +275,7 @@ values = NULL;
 
 - [第16回 スタックとヒープの違い](../16_stack_heap/)（[公開動画](https://youtu.be/OvsssrBBGe0)）
 - [第17回 mallocで配列を確保！初期化はどうする？](../17_malloc/)（[公開動画](https://youtu.be/sdjV4kH4nL8)）
-- 第18回 本ページ（動画未公開）
+- 第18回 本ページ（[公開動画](https://youtu.be/J8fF-cfFlhE)）
 - [シリーズ一覧](../../README.md)
 
 ## 参考資料
