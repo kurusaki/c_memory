@@ -2,7 +2,7 @@
 
 〜メモリの世界から理解するC言語〜
 
-YouTube：公開準備中（公開URLは未確定）。タイトルは現在のシナリオの推奨案です。
+YouTube：[ダングリングポインタとは？NULLにしても残る危険](https://youtu.be/gPHBpsI33GQ)
 
 ## この回で学ぶこと
 
@@ -230,7 +230,7 @@ int create_value(void)
 - [第16回 スタックとヒープの違い](../16_stack_heap/)（[公開動画](https://youtu.be/OvsssrBBGe0)）
 - [第17回 malloc](../17_malloc/)（[公開動画](https://youtu.be/sdjV4kH4nL8)）
 - [第18回 free](../18_free/)（[公開動画](https://youtu.be/J8fF-cfFlhE)）
-- 第19回 本ページ（動画公開準備中）
+- 第19回 本ページ（[公開動画](https://youtu.be/gPHBpsI33GQ)）
 - [シリーズ一覧](../../README.md)
 
 ## 参考資料

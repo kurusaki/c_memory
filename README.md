@@ -53,7 +53,7 @@
 | #16 | スタックとヒープの違いとは？メモリの寿命で理解する| [16_stack_heap](samples/16_stack_heap)|
 | #17 | [mallocで配列を確保！初期化はどうする？](https://youtu.be/sdjV4kH4nL8)| [17_malloc](samples/17_malloc)|
 | #18 | [freeとは？メモリ解放のしくみと注意点](https://youtu.be/J8fF-cfFlhE)| [18_free](samples/18_free)|
-| #19 | ダングリングポインタとは？（動画公開準備中） | [19_dangling_pointer](samples/19_dangling_pointer) |
+| #19 | [ダングリングポインタとは？](https://youtu.be/gPHBpsI33GQ) | [19_dangling_pointer](samples/19_dangling_pointer) |
 
 
 
